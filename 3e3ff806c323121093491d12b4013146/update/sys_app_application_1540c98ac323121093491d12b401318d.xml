@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>To enable an admin to clone a users groups and roles</description>
+        <device_type>browser</device_type>
+        <hint>To enable an admin to clone a users groups and roles</hint>
+        <name/>
+        <order/>
+        <roles>user_admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-07 10:07:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1540c98ac323121093491d12b401318d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Clone a user</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Clone a user" source="x_124049_cloneuser">3e3ff806c323121093491d12b4013146</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Clone a user">3e3ff806c323121093491d12b4013146</sys_scope>
+        <sys_update_name>sys_app_application_1540c98ac323121093491d12b401318d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-07 10:07:14</sys_updated_on>
+        <title>Clone a user</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
